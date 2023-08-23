@@ -1,6 +1,7 @@
+```
 Name:Ragavendran A
-
 Reg No:212222230114
+```
 # EXPERIMENT 02 INTEFACING A DIGITAL INPUT TO ARM DEVELOPMENT BOARD
 ## Aim: To Interface a Digital Input  (userpush button  ) to ARM   development board and write a  program to obtain  the data and flash the led  
 ## Components required: STM32 CUBE IDE, ARM IOT development board,  STM programmer tool.
@@ -141,9 +142,12 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output  :
-![output1](https://github.com/ragavanayyadurai/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/118749557/7db86e25-2cea-4719-aba7-452d62b730a2)
-![output2](https://github.com/ragavanayyadurai/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/118749557/f16fea67-55c6-4464-8233-5a5e837304a8)
  
+### SWITCH ON
+ <img src="https://github.com/ragavanayyadurai/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/118749557/7db86e25-2cea-4719-aba7-452d62b730a2" width=475 height=475>
+ 
+### SWITCH OFF
+ <img src="https://github.com/ragavanayyadurai/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/118749557/f16fea67-55c6-4464-8233-5a5e837304a8" width=475 height=475>
  
 ## Result :
 Interfacing a digital Input (Pushbutton ) with ARM microcontroller based IOT development is executed and the results are verified.
